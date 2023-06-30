@@ -1,0 +1,23 @@
+body{
+
+    background-color: rgb(243, 243, 243);
+}
+
+h1{
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(37, 37, 37);
+
+}
+
+h2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(37, 37, 37);
+
+}
+
+p{
+    background-color: rgb(255, 255, 255);
+    color: rgb(37, 37, 37);
+    font-size: medium;
+}

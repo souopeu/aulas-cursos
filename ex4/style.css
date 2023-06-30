@@ -1,0 +1,17 @@
+.descricao-produto {
+
+    background-color: rgb(238, 238, 238);
+
+} 
+
+.promocao{
+
+    border: solid 10px green;
+
+}
+
+.novo{
+
+    border: solid 10px red;
+
+}

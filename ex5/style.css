@@ -1,0 +1,10 @@
+div{ background-color: rgb(230, 230, 230); border: solid 10px rgb(240, 240, 240);}
+.produto1 span{
+    
+    color: red;
+    font-size: 20px;
+    border: solid 5px green;
+
+}
+/* .produto2{ background-color: rgb(197, 197, 197); border: solid 10px rgb(223, 223, 223);} */
+/* Outra maneira de fazer também */
